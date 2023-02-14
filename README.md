@@ -9,7 +9,11 @@
 <li> Promt user if they want numeric characters.</li>
 <li> Promt user if they want special characters.</li>
 <li> When answering each prompt an input should be validated and at least one character type should be selected.</li>
-<li> When all prompts are answered, then a password is generated that matches the selected criteria</li>
-<li> The password is either displayed in an alert or written to the page</li>
+<li> When all prompts are answered, then a password is generated that matches the selected criteria.</li>
+<li> The password is either displayed in an alert or written to the page.</li>
  
-<img scr="firstcapture.PNG">
+![image](/images/screenshot1.PNG)
+![image](/images/screenshot2.PNG)
+![image](/images/scheenshot3.PNG)
+![image](/images/screenshot4.PNG)
+![image](/images/screenshot5.PNG)
