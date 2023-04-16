@@ -11,6 +11,9 @@
 <li> When answering each prompt an input should be validated and at least one character type should be selected.</li>
 <li> When all prompts are answered, then a password is generated that matches the selected criteria.</li>
 <li> The password is either displayed in an alert or written to the page.</li>
+
+## Deployed page 
+[link] (https://gabrielarec.github.io/password-generator/)
  
 ![image](/images/screenshot1.PNG)
 ![image](/images/screenshot2.PNG)
